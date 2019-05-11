@@ -1,0 +1,30 @@
+
+/*html,body{
+  height:100%;
+  overflow:hidden;
+}*/
+
+
+
+
+
+.content {
+	width: 400px;
+	background: #fff;
+	padding: 30px;
+	text-align: center;
+	z-index: 995;
+  box-shadow:0 3px 36px 0 rgba(206, 9, 108, 0.6);
+  display:inline-block;
+  opacity:0.7;
+  color:#666;
+  text-decoration:none;
+  transition:all 0.2s
+}
+
+.content:hover{
+  box-shadow:0 3px 36px 0 rgba(206, 9, 108, 0.6);
+  padding:40px;
+  margin-top:-10px;
+  color:#444
+}

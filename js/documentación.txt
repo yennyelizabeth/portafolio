@@ -1,0 +1,9 @@
+Librería de js que van dentro de carpeta js
+-------------------------------------------
+Librería de menú con hijos y responsive adaptable
+https://www.meanthemes.com/plugins/meanmenu/
+jquery.meanmenu.js
+
+
+isotope.pkgd.min.js
+https://isotope.metafizzy.co/

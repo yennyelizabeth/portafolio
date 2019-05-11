@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Erica+One');
+/*
+* {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+	}
+
+	body {
+		font-family: "MONTSERRAT";
+		background-color: #3BBBB;
+		justify-content: space-around;
+		overflow-x: hidden;
+	}
+*/
+	.shadowy {
+		display: flex;
+		flex-direction: column;
+		position: relative;
+	/*	left: 50vw;*/
+		
+
+		font-weight: 900;
+	}
+
+	.two {
+        flex-direction: column;
+		position: relative;
+        position: relative;
+        font-size: 15rem;
+        line-height: 250%;
+    /*left: -5%;*/
+    letter-spacing: 120%;
+    /*color: #3AAAAA;*/
+    color: white;
+	}
+
+	.three {
+		position: relative;
+        /*	left: -2;*/
+        font-size: 2rem;
+        color: #eabad8;
+        
+	}
+
+	.four {
+		position: relative;
+		/*	left: 4%;*/
+	}
+
+	.five {
+		position: relative;
+	/*	left: 2%;*/
+	}@import url('https://fonts.googleapis.com/css?family=Erica+One');
+
+
+    /*
+* {
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+	}
+
+	body {
+		font-family: "MONTSERRAT";
+		background-color: #3BBBB;
+		justify-content: space-around;
+		overflow-x: hidden;
+	}
+*/
+	.shadow {
+		display: flex;
+		flex-direction: column;
+		position: relative;
+	/*	left: 50vw;*/
+		color: #3AAAAA;
+		font-size: 4.7rem;
+		font-weight: 900;
+	}
+
+	.two {
+		position: relative;
+	/**	left: -5%;*/
+	}
+
+	.three {
+		position: relative;
+	/*	left: -2;*/
+	}
+
+	.four {
+		position: relative;
+	/*	left: 4%;*/
+	}
+
+	.five {
+		position: relative;
+	/**	left: 2%;*/
+	}

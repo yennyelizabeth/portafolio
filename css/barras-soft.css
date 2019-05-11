@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+.titulo {
+  font-family:"Montserrat"; 
+  font-size:20px; 
+  text-align:center; 
+  color:#999;
+}
+.barras {
+  width:320px; 
+  margin:10px auto;
+}
+.barra {
+  width:300px; 
+  height:30px; 
+  background:rgb(255, 255, 255); 
+  margin:10px;
+}
+.barra-nivel {
+  height:30px; 
+  /*background:#444;*/
+  background:#FFBBD4;
+  width:1px;
+  -webkit-transition: width 1s ease;
+  -moz-transition: width 1s ease;
+  transition: width 1s ease;
+}
+.valor-nivel {
+  line-height:30px; 
+  color:rgb(0, 0, 0); 
+  margin-left:10px; 
+  font-family:"Montserrat"; 
+  font-size:12px;
+}
