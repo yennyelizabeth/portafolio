@@ -6,7 +6,8 @@
     font-family: 'Montserrat', sans-serif;
 	perspective: 1000px; 
     perspective-origin: 200px 40px;
-    color:black;
+	/*color:black;*/
+	color: #f8d0df;
 }
 
 .word span {

@@ -407,23 +407,23 @@ ul.drop-menu li a:hover{
   }
   .menu-main p a:hover {
     /*color: #FFBBD4;*/
-    color:black;
-    font-weight: 800;
+    color:rgb(255, 255, 255);
+    font-weight: 550;
     text-decoration-line: none;
   }
 
   .menu-main p a:visited {
     /*color: #FFBBD4;*/
-    color:black;
-    font-weight: 800;
+    color:rgb(250, 250, 250);
+    font-weight: 550;
     text-decoration-line: none;
   }
 
   
   .menu-main p a:focus {
     /*color: #FFBBD4;*/
-    color:black;
-    font-weight: 800;
+    color:rgb(250, 250, 250);
+    font-weight: 550;
     text-decoration-line: none;
   }
 
@@ -640,7 +640,7 @@ image-rendering: red;
     width: 80px;
 }
 .back-initial {
-background-color: white;
+background-color: black;
 }
 .abt-left a:hover{
     background: #fff;
@@ -1047,6 +1047,7 @@ font-size: 12px;
 /*------------------------------
   8. TESTIMONIAL SECTION START
   ------------------------------*/
+
 .testimonial-section{}
 .testimonial-section .testimonial{}
 .testimonial-section .single-testimonial{}

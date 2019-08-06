@@ -116,8 +116,8 @@ padding: 5px;
   background-position: center center center center;
   background-size: 100%;
   /*background-color: #FB565B;
-  background-color: #FFBBD4; #FFBBD4 /
-  background-color: white;
+  background-color: #FFBBD4; #FFBBD4 */
+  background-color: black;
 
 /* border */
   border-width: 5px;
@@ -451,7 +451,8 @@ height: 50%;
 
 .ant-jibjab {
   /*background-color:  #F9DEDF; #FFBBD4*/
-  background-color:white ;
+  /*background-color:white ;*/
+  background-color: #f8d0df;
   padding: 90px;
 }
 .jibjab {
